@@ -6,5 +6,8 @@ scikit-learn
 catboost
 xgboost
 Flask
+python-binance
+dotenv
+beautifulsoup4
 
 #-e .
